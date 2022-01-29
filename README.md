@@ -10,4 +10,4 @@ It was made with Unity, using the limited knowledge some of us already had and w
 
 
 ## Concept
-The theme chosen for the GGJ 2022 was **duality**. Our game focuses on the split that social media create in individuals. With the excuse of bringing people together, social media push individuals to showing another face of themselves  
+The theme chosen for the GGJ 2022 was **duality**. Our game focuses on the split that social media create in individuals. With the excuse of bringing people together, social media push individuals to nurture another version of themselves which is not resonance with their true spirit. Individuals become users that are torn between two conflicting worlds. 
