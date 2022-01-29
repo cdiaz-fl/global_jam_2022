@@ -1,4 +1,4 @@
-![GGJ 2022's logo](https://res.cloudinary.com/ngasco/image/upload/v1643450928/global_game_jam_2022/globa_game_jam_2022_obhrl6.png "GGJ 2022's logo")
+![GGJ 2022's logo](https://res.cloudinary.com/ngasco/image/upload/v1643451238/global_game_jam_2022/globa_game_jam_2022_qmksmo.png "GGJ 2022's logo")
 # Global Game Jam 2022
 
 > The GGJ mission is to empower individuals worldwide to learn, experiment, and create together through the medium of games. 
